@@ -1,0 +1,4 @@
+<FILES ~ "\.html$">
+    Order allow,deny
+    Deny from all
+</FILES>
